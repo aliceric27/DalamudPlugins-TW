@@ -1,0 +1,14 @@
+[
+  {
+    "Author": "Ottermandias, Adam, Wintermute",
+    "Name": "Penumbra",
+    "Punchline": "Runtime mod loader and manager.",
+    "Description": "Runtime mod loader and manager. (API12 版本，適用於台服)",
+    "RepoUrl": "https://github.com/xivdev/Penumbra",
+    "AssemblyVersion": "1.4.0.1",
+    "DalamudApiLevel": 12,
+    "DownloadLinkInstall": "https://github.com/xivdev/Penumbra/releases/download/1.4.0.1/Penumbra.zip",
+    "DownloadLinkUpdate": "https://github.com/xivdev/Penumbra/releases/download/1.4.0.1/Penumbra.zip",
+    "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png"
+  }
+]
