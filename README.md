@@ -23,6 +23,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW/main/repo.json
 | **Brio** | 0.5.1.0 | GPose 增強工具，用於拍照與動作控制 |
 | **Glamourer** | 1.4.0.1 | 外觀修改與儲存工具（需要 Penumbra）|
 | **Customize+** | 2.0.7.22 | 透過編輯骨骼參數自訂角色外觀 |
+| **Aetherment** | 0.3.3 | Mod 瀏覽、安裝與自動更新工具 |
 
 ## 為什麼需要這個倉庫？
 
@@ -38,6 +39,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW/main/repo.json
 - [Brio 官方](https://github.com/Etheirys/Brio)
 - [Glamourer 官方](https://github.com/Ottermandias/Glamourer)
 - [Customize+ 官方](https://github.com/Aether-Tools/CustomizePlus)
+- [Aetherment 官方](https://github.com/Sevii77/aetherment)
 
 ## 注意事項
 

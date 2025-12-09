@@ -118,5 +118,29 @@
     "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW/releases/download/plugins/CustomizePlus.zip",
     "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW/releases/download/plugins/CustomizePlus.zip",
     "IconUrl": "https://raw.githubusercontent.com/Aether-Tools/CustomizePlus/main/Data/icon.png"
+  },
+  {
+    "Author": "Sevii77",
+    "Name": "Aetherment",
+    "InternalName": "Aetherment",
+    "AssemblyVersion": "0.3.3",
+    "TestingAssemblyVersion": "0.3.3",
+    "RepoUrl": "https://github.com/Sevii77/aetherment",
+    "ApplicableVersion": "any",
+    "Punchline": "Mod browser, installer, and auto updater.",
+    "Description": "Easy browsing, installing, and auto updating mods. Advanced automatic texture compositing. (API12 版本，適用於台服)",
+    "DalamudApiLevel": 12,
+    "TestingDalamudApiLevel": 12,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "LoadPriority": 0,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW/releases/download/plugins/Aetherment.zip",
+    "DownloadLinkTesting": "https://github.com/cycleapple/DalamudPlugins-TW/releases/download/plugins/Aetherment.zip",
+    "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW/releases/download/plugins/Aetherment.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Sevii77/aetherment/main/plugin/images/icon.png"
   }
 ]
