@@ -22,5 +22,29 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.5.109/BossModReborn.zip",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.5.109/BossModReborn.zip",
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png"
+  },
+  {
+    "Author": "The Combat Reborn Team",
+    "Name": "Rotation Solver Reborn",
+    "InternalName": "RotationSolver",
+    "AssemblyVersion": "7.2.5.122",
+    "TestingAssemblyVersion": "7.2.5.122",
+    "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
+    "ApplicableVersion": "any",
+    "Punchline": "Analyses combat information every frame and finds the best action.",
+    "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
+    "DalamudApiLevel": 12,
+    "TestingDalamudApiLevel": 12,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "LoadPriority": 0,
+    "LoadRequiredState": 0,
+    "LoadSync": true,
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.5.122/RotationSolver.zip",
+    "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.5.122/RotationSolver.zip",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.2.5.122/RotationSolver.zip",
+    "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png"
   }
 ]
