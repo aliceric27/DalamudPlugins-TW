@@ -18,9 +18,8 @@ https://raw.githubusercontent.com/magejiaaa/DalamudPlugins-TW/main/repo.json
 ## 可用插件
 
 不保證與其他插件的相容性，請自行斟酌使用
-# 🔴用安自負🔴
-# 🔴用安自負🔴
-# 🔴用安自負🔴
+### 🔴用安自負🔴🔴用安自負🔴🔴用安自負🔴
+
 
 | 插件 | 版本 | 說明 |
 |------|------|------|
