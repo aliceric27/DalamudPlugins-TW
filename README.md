@@ -32,11 +32,11 @@ https://raw.githubusercontent.com/magejiaaa/DalamudPlugins-TW/main/repo.json
 | [**Saucy**](https://github.com/PunishXIV/Saucy) | 1.4.2.0 | 金蝶相關 |
 | [**NoClippy**](https://github.com/UnknownX7/NoClippy) | 0.5.0.18 | 不知道是二插還三插 |
 | [**NecroLens**](https://github.com/Jukkales/NecroLens) | 1.0.8.11 | 深宮小精靈 |
-| [**AutoDuty**](https://github.com/ffxivcode/AutoDuty) | 0.0.0.228 | 副本小精靈 |
 | [**MidiBard 2**](https://midibard.org) | 3.1.0.0 | 演奏 |
 | [**GatherBuddy Reborn**](https://github.com/AtmoOmen/GatherBuddyReborn) | 7.2.5.1 | 採集小精靈 |
 | [**Artisan**](https://github.com/MeowZWR/Artisan) | 4.0.3.46 | 生產小精靈 |
 | [**Burning Down the House**](https://github.com/LeonBlade/BDTHPlugin) | 1.6.9 | 裝修公司 |
+| [**Raphael.Dalamud**](https://github.com/Dalamud-DailyRoutines/Raphael.Dalamud) | 0.0.3.0 | DR有一個功能需要用到 |
 
 ## 為什麼需要這個倉庫？
 

@@ -273,5 +273,26 @@
     "DownloadLinkInstall": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.6.9/BDTHPlugin.zip",
     "DownloadLinkUpdate": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.6.9/BDTHPlugin.zip",
     "IconUrl": "https://github.com/LeonBlade/BDTHPlugin/raw/main/icon.png"
+  },
+  {
+    "Author": "Raphael",
+    "Name": "Raphael.Dalamud",
+    "InternalName": "Raphael.Dalamud",
+    "AssemblyVersion": "0.0.3.0",
+    "RepoUrl": "https://github.com/Dalamud-DailyRoutines/Raphael.Dalamud",
+    "Tags": [
+      "Raphael",
+      "Craft",
+      "生產"
+    ],
+    "ApplicableVersion": "any",
+    "Punchline": "Dalamud Wrapper for Craft Solver Raphael / 生產求解器 Raphael 的 Dalamud 包裝",
+    "Description": "Dalamud Wrapper for Craft Solver Raphael / 生產求解器 Raphael 的 Dalamud 包裝\nMainly used to provide IPC for other Dalamud plugins / 主要用于提供 IPC 給其他 Dalamud 插件調用",
+    "DalamudApiLevel": 12,
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://github.com/Dalamud-DailyRoutines/Raphael.Dalamud/releases/download/0.0.3.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Dalamud-DailyRoutines/Raphael.Dalamud/releases/download/0.0.3.0/latest.zip",
+    "IconUrl": ""
   }
 ]
