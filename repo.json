@@ -268,5 +268,60 @@
     "DownloadLinkInstall": "https://github.com/Dalamud-DailyRoutines/Raphael.Dalamud/releases/download/0.0.3.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Dalamud-DailyRoutines/Raphael.Dalamud/releases/download/0.0.3.0/latest.zip",
     "IconUrl": ""
+  },
+  {
+    "Author": "daemitus, croizat",
+    "Name": "Something Need Doing",
+    "InternalName": "SomethingNeedDoing",
+    "AssemblyVersion": "0.0.0.0",
+    "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
+    "Tags": [
+      "crafting",
+      "automation",
+      "macros",
+      "lua",
+      "scripting"
+    ],
+    "ApplicableVersion": "any",
+    "Punchline": "Work work.",
+    "Description": "Now for more than crafting!",
+    "DalamudApiLevel": 12,
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/magejiaaa/DalamudPlugins-TW/refs/heads/main/plugins/SomethingNeedDoing/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/magejiaaa/DalamudPlugins-TW/refs/heads/main/plugins/SomethingNeedDoing/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Jaksuhn/SomethingNeedDoing/master/res/orc2.png"
+  },
+  {
+    "Author": "NightmareXIV",
+    "Name": "TextAdvance",
+    "InternalName": "TextAdvance",
+    "AssemblyVersion": "3.2.4.5",
+    "RepoUrl": "https://github.com/NightmareXIV/TextAdvance",
+    "ApplicableVersion": "any",
+    "Punchline": "Quest speedrunning assistance tool. Automatically skips subtitle boxes and confirms cutscene skipping",
+    "Description": "",
+    "DalamudApiLevel": 12,
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://github.com/NightmareXIV/TextAdvance/releases/download/3.2.4.5/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/NightmareXIV/TextAdvance/releases/download/3.2.4.5/latest.zip",
+    "IconUrl": ""
+  },
+  {
+    "Author": "NightmareXIV",
+    "Name": "Lifestream",
+    "InternalName": "Lifestream",
+    "AssemblyVersion": "2.5.1.15",
+    "RepoUrl": "https://github.com/NightmareXIV/Lifestream",
+    "ApplicableVersion": "any",
+    "Punchline": "A plugin to speed up Aethernet travel and World changing.",
+    "Description": "- One click to teleport to any world or aethernet destination\n- Click on aetheryte shards inside zone map to teleport to them",
+    "DalamudApiLevel": 12,
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://github.com/NightmareXIV/Lifestream/releases/download/2.5.1.15/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/NightmareXIV/Lifestream/releases/download/2.5.1.15/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/icons/lifestream.png"
   }
 ]
