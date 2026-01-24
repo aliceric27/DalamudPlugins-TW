@@ -184,7 +184,7 @@
     "IconUrl": "https://i.imgur.com/OSxqew4.png"
   },
   {
-    "Author": "akira0245, Ori, Kalle, Zune",
+    "Author": "AA, akira0245, Ori, Kalle, Zune",
     "Name": "GatherBuddy Reborn",
     "InternalName": "GatherBuddyReborn",
     "AssemblyVersion": "7.2.5.1",
@@ -200,8 +200,8 @@
     "DalamudApiLevel": 12,
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://github.com/AtmoOmen/GatherBuddyReborn/releases/download/7.2.5.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/AtmoOmen/GatherBuddyReborn/releases/download/7.2.5.1/latest.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Gatherbuddy-AA/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Gatherbuddy-AA/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/GBR_Icon.png"
   },
   {
@@ -309,7 +309,7 @@
     "IconUrl": ""
   },
   {
-    "Author": "NightmareXIV",
+    "Author": "AA, NightmareXIV",
     "Name": "Lifestream",
     "InternalName": "Lifestream",
     "AssemblyVersion": "2.5.1.15",
@@ -320,8 +320,8 @@
     "DalamudApiLevel": 12,
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://github.com/NightmareXIV/Lifestream/releases/download/2.5.1.15/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/NightmareXIV/Lifestream/releases/download/2.5.1.15/latest.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Lifestream-AA/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Lifestream-AA/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/icons/lifestream.png"
   }
 ]
