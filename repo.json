@@ -200,8 +200,8 @@
     "DalamudApiLevel": 12,
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Gatherbuddy-AA/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Gatherbuddy-AA/latest.zip",
+    "DownloadLinkInstall": "https://github.com/aliceric27/DalamudPlugins-TW/raw/refs/heads/main/plugins/Gatherbuddy/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/aliceric27/DalamudPlugins-TW/raw/refs/heads/main/plugins/Gatherbuddy/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/GBR_Icon.png"
   },
   {
@@ -320,8 +320,8 @@
     "DalamudApiLevel": 12,
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Lifestream-AA/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Lifestream-AA/latest.zip",
+    "DownloadLinkInstall": "https://github.com/aliceric27/DalamudPlugins-TW/raw/refs/heads/main/plugins/Lifestream/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/aliceric27/DalamudPlugins-TW/raw/refs/heads/main/plugins/Lifestream/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/icons/lifestream.png"
   }
 ]
