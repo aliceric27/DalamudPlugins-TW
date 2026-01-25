@@ -1,0 +1,25 @@
+{
+  "Author": "AA. The Combat Reborn Team",
+  "Name": "GatherBuddy Reborn",
+  "InternalName": "GatherBuddyReborn",
+  "AssemblyVersion": "7.2.5.1",
+  "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations\nvia item name and a UI to keep track of special uptime and weather conditions.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
+  "Tags": [
+    "Gathering",
+    "Fishing",
+    "Miner",
+    "Botanist",
+    "Weather",
+    "Alarms",
+    "Timer"
+  ],
+  "DalamudApiLevel": 12,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Simplify Gathering and Fishing.",
+  "AcceptsFeedback": true
+}
