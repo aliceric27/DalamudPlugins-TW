@@ -59,8 +59,8 @@
     "DalamudApiLevel": 12,
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://github.com/MeowZWR/WrathCombo/releases/download/1.0.1.18-cn/WrathCombo.zip",
-    "DownloadLinkUpdate": "https://github.com/MeowZWR/WrathCombo/releases/download/1.0.1.18-cn/WrathCombo.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/WrathCombo/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/WrathCombo/latest.zip",
     "IconUrl": "https://s3.puni.sh/media/plugin/60/icon-2bwhkn3zf1f.png"
   },
   {
@@ -91,8 +91,8 @@
     "DalamudApiLevel": 12,
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/AutoRetainer/AutoRetainer-4.5.0.4.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/AutoRetainer/AutoRetainer-4.5.0.4.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/AutoRetainer/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/AutoRetainer/latest.zip",
     "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
   },
   {
@@ -112,8 +112,8 @@
     "DalamudApiLevel": 12,
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Saucy/Saucy-1.4.2.0.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Saucy/Saucy-1.4.2.0.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Saucy/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Saucy/latest.zip",
     "IconUrl": "https://love.puni.sh/resources/saucy.png"
   },
   {
@@ -179,8 +179,8 @@
     "DalamudApiLevel": 12,
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/MidiBard2/MidiBard2-3.1.0.0.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/MidiBard2/MidiBard2-3.1.0.0.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/MidiBard2/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/MidiBard2/latest.zip",
     "IconUrl": "https://i.imgur.com/OSxqew4.png"
   },
   {
@@ -200,8 +200,8 @@
     "DalamudApiLevel": 12,
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Gatherbuddy/GatherBuddyReborn-7.2.5.1.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Gatherbuddy/GatherBuddyReborn-7.2.5.1.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Gatherbuddy/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Gatherbuddy/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/GBR_Icon.png"
   },
   {
@@ -265,8 +265,8 @@
     "DalamudApiLevel": 12,
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Raphael.Dalamud/Raphael.Dalamud-0.0.3.0.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Raphael.Dalamud/Raphael.Dalamud-0.0.3.0.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Raphael.Dalamud/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Raphael.Dalamud/latest.zip",
     "IconUrl": ""
   },
   {
@@ -288,8 +288,8 @@
     "DalamudApiLevel": 12,
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/SomethingNeedDoing/SomethingNeedDoing-0.0.0.0.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/SomethingNeedDoing/SomethingNeedDoing-0.0.0.0.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/SomethingNeedDoing/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/SomethingNeedDoing/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/Jaksuhn/SomethingNeedDoing/master/res/orc2.png"
   },
   {
@@ -320,8 +320,8 @@
     "DalamudApiLevel": 12,
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Lifestream/Lifestream-2.5.1.15.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Lifestream/Lifestream-2.5.1.15.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Lifestream/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Lifestream/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/icons/lifestream.png"
   },
   {
@@ -336,8 +336,8 @@
     "DalamudApiLevel": 12,
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/AutoDuty/AutoDuty-0.0.0.0.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/AutoDuty/AutoDuty-0.0.0.0.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/AutoDuty/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/AutoDuty/latest.zip",
     "IconUrl": "https://s3.puni.sh/media/plugin/54/icon-15ug2vnr9m1.png"
   },
   {
@@ -368,12 +368,12 @@
     "DalamudApiLevel": 12,
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/FF14DPSMeter/FF14DPSMeter-1.0.0.0.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/FF14DPSMeter/FF14DPSMeter-1.0.0.0.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/FF14DPSMeter/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/FF14DPSMeter/latest.zip",
     "IconUrl": ""
   },
   {
-    "Author": "53m1k0l0n/Gidedin (Puni.sh)",
+    "Author": "AA.53m1k0l0n/Gidedin (Puni.sh)",
     "Name": "LazyLoot",
     "InternalName": "LazyLoot",
     "AssemblyVersion": "5.3.2.1",
@@ -390,8 +390,8 @@
     "DalamudApiLevel": 12,
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Lazyloot/LazyLoot-5.3.2.1.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Lazyloot/LazyLoot-5.3.2.1.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Lazyloot/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Lazyloot/latest.zip",
     "IconUrl": "https://love.puni.sh/resources/lazyloot.png"
   },
   {
@@ -411,8 +411,8 @@
     "DalamudApiLevel": 12,
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/PixelPerfect/PixelPerfect-3.3.1.0.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/PixelPerfect/PixelPerfect-3.3.1.0.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/PixelPerfect/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/PixelPerfect/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/Haplo064/PixelPerfect/master/images/icon.png"
   },
   {
@@ -431,8 +431,8 @@
     "DalamudApiLevel": 12,
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Questionable/Questionable-5.23.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Questionable/Questionable-5.23.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Questionable/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Questionable/latest.zip",
     "IconUrl": "https://plugins.carvel.li/icons/Questionable.png"
   },
   {
@@ -447,8 +447,8 @@
     "DalamudApiLevel": 12,
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/vnavmesh/vnavmesh-0.4.0.2.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/vnavmesh/vnavmesh-0.4.0.2.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/vnavmesh/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/vnavmesh/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/awgil/ffxiv_navmesh/8dab2e675e51a03b1827d94e77616a8144892a72/icon2.png"
   }
 ]
