@@ -15,15 +15,6 @@ https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/main/repo.json
 
 4. 儲存後即可在插件安裝器中看到這些插件
 
-## 檔案命名規則
-
-本倉庫內的插件壓縮檔採用固定命名格式，方便管理與回溯版本：
-
-```
-plugins/<PluginFolder>/<InternalName>-<AssemblyVersion>.zip
-```
-
-`repo.json` 內指向本倉庫的下載連結也會使用相同檔名（不使用 `latest.zip`）。
 
 ## 可用插件
 
