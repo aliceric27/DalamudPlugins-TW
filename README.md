@@ -10,10 +10,20 @@
 3. 在「自訂插件儲存庫」加入以下 URL：
 
 ```
-https://raw.githubusercontent.com/magejiaaa/DalamudPlugins-TW/main/repo.json
+https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/main/repo.json
 ```
 
 4. 儲存後即可在插件安裝器中看到這些插件
+
+## 檔案命名規則
+
+本倉庫內的插件壓縮檔採用固定命名格式，方便管理與回溯版本：
+
+```
+plugins/<PluginFolder>/<InternalName>-<AssemblyVersion>.zip
+```
+
+`repo.json` 內指向本倉庫的下載連結也會使用相同檔名（不使用 `latest.zip`）。
 
 ## 可用插件
 
@@ -40,6 +50,13 @@ https://raw.githubusercontent.com/magejiaaa/DalamudPlugins-TW/main/repo.json
 | [**Something Need Doing**](https://github.com/Jaksuhn/SomethingNeedDoing) | 0.0.0.0 | 巨集擴展 |
 | [**TextAdvance**](https://github.com/NightmareXIV/TextAdvance) | 3.2.4.5 | 跳過劇情對話 |
 | [**Lifestream**](https://github.com/NightmareXIV/Lifestream) | 2.5.1.15 | 一鍵傳送 |
+| [**vnavmesh**](https://github.com/awgil/ffxiv_navmesh) | 0.4.0.2 | 自動尋路 / 移動工具 |
+| [**Boss Mod**](https://github.com/awgil/ffxiv_bossmod) | 0.1.4.0 | Boss 機制輔助 |
+| [**AutoDuty**](https://github.com/ffxivcode/AutoDuty) | 0.0.0.0 | 自動副本（需搭配 BossMod、vnavmesh 與循環插件） |
+| [**Pixel Perfect**](https://github.com/Haplo064/PixelPerfect) | 3.3.1.0 | 顯示碰撞箱 / 站位輔助 |
+| [**LazyLoot**](https://github.com/PunishXIV/LazyLoot) | 5.3.2.1 | 自動擲骰 / 撿取相關 |
+| [**Questionable**](https://git.carvel.li/liza/Questionable) | 5.23 | 任務助手（需搭配 vnavmesh/TextAdvance/Lifestream） |
+| **FF14 傷害統計** | 1.0.0.0 | 即時 DPS 統計 |
 
 ## 為什麼需要這個倉庫？
 

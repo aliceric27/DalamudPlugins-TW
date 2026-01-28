@@ -91,8 +91,8 @@
     "DalamudApiLevel": 12,
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/magejiaaa/DalamudPlugins-TW/refs/heads/main/plugins/AutoRetainer/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/magejiaaa/DalamudPlugins-TW/refs/heads/main/plugins/AutoRetainer/latest.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/AutoRetainer/AutoRetainer-4.5.0.4.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/AutoRetainer/AutoRetainer-4.5.0.4.zip",
     "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
   },
   {
@@ -112,8 +112,8 @@
     "DalamudApiLevel": 12,
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/magejiaaa/DalamudPlugins-TW/refs/heads/main/plugins/Saucy/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/magejiaaa/DalamudPlugins-TW/refs/heads/main/plugins/Saucy/latest.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Saucy/Saucy-1.4.2.0.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Saucy/Saucy-1.4.2.0.zip",
     "IconUrl": "https://love.puni.sh/resources/saucy.png"
   },
   {
@@ -179,8 +179,8 @@
     "DalamudApiLevel": 12,
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/magejiaaa/DalamudPlugins-TW/refs/heads/main/plugins/MidiBard2/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/magejiaaa/DalamudPlugins-TW/refs/heads/main/plugins/MidiBard2/latest.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/MidiBard2/MidiBard2-3.1.0.0.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/MidiBard2/MidiBard2-3.1.0.0.zip",
     "IconUrl": "https://i.imgur.com/OSxqew4.png"
   },
   {
@@ -200,8 +200,8 @@
     "DalamudApiLevel": 12,
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://github.com/aliceric27/DalamudPlugins-TW/raw/refs/heads/main/plugins/Gatherbuddy/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/aliceric27/DalamudPlugins-TW/raw/refs/heads/main/plugins/Gatherbuddy/latest.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Gatherbuddy/GatherBuddyReborn-7.2.5.1.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Gatherbuddy/GatherBuddyReborn-7.2.5.1.zip",
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/GBR_Icon.png"
   },
   {
@@ -265,8 +265,8 @@
     "DalamudApiLevel": 12,
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://github.com/Dalamud-DailyRoutines/Raphael.Dalamud/releases/download/0.0.3.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Dalamud-DailyRoutines/Raphael.Dalamud/releases/download/0.0.3.0/latest.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Raphael.Dalamud/Raphael.Dalamud-0.0.3.0.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Raphael.Dalamud/Raphael.Dalamud-0.0.3.0.zip",
     "IconUrl": ""
   },
   {
@@ -288,8 +288,8 @@
     "DalamudApiLevel": 12,
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/magejiaaa/DalamudPlugins-TW/refs/heads/main/plugins/SomethingNeedDoing/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/magejiaaa/DalamudPlugins-TW/refs/heads/main/plugins/SomethingNeedDoing/latest.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/SomethingNeedDoing/SomethingNeedDoing-0.0.0.0.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/SomethingNeedDoing/SomethingNeedDoing-0.0.0.0.zip",
     "IconUrl": "https://raw.githubusercontent.com/Jaksuhn/SomethingNeedDoing/master/res/orc2.png"
   },
   {
@@ -320,8 +320,135 @@
     "DalamudApiLevel": 12,
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://github.com/aliceric27/DalamudPlugins-TW/raw/refs/heads/main/plugins/Lifestream/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/aliceric27/DalamudPlugins-TW/raw/refs/heads/main/plugins/Lifestream/latest.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Lifestream/Lifestream-2.5.1.15.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Lifestream/Lifestream-2.5.1.15.zip",
     "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/icons/lifestream.png"
+  },
+  {
+    "Author": "Herculezz",
+    "Name": "AutoDuty",
+    "InternalName": "AutoDuty",
+    "AssemblyVersion": "0.0.0.0",
+    "RepoUrl": "https://github.com/ffxivcode/AutoDuty",
+    "ApplicableVersion": "any",
+    "Punchline": "AutoDuty",
+    "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (Wrath Combo, BossMod AutoRotation, or RotationSolverReborn)",
+    "DalamudApiLevel": 12,
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/AutoDuty/AutoDuty-0.0.0.0.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/AutoDuty/AutoDuty-0.0.0.0.zip",
+    "IconUrl": "https://s3.puni.sh/media/plugin/54/icon-15ug2vnr9m1.png"
+  },
+  {
+    "Author": "veyn, xan_0",
+    "Name": "Boss Mod",
+    "InternalName": "BossMod",
+    "AssemblyVersion": "0.1.4.0",
+    "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
+    "ApplicableVersion": "any",
+    "Punchline": "Don't fail at raid mechanics anymore",
+    "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
+    "DalamudApiLevel": 12,
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/30/BossMod/versions/latest.zip",
+    "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png"
+  },
+  {
+    "Author": "AZ",
+    "Name": "FF14 傷害統計",
+    "InternalName": "FF14DPSMeter",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "",
+    "ApplicableVersion": "any",
+    "Punchline": "統計DPS",
+    "Description": "即時追蹤副本中的傷害統計，顯示隊伍的DPS、總傷害和傷害占比。",
+    "DalamudApiLevel": 12,
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/FF14DPSMeter/FF14DPSMeter-1.0.0.0.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/FF14DPSMeter/FF14DPSMeter-1.0.0.0.zip",
+    "IconUrl": ""
+  },
+  {
+    "Author": "53m1k0l0n/Gidedin (Puni.sh)",
+    "Name": "LazyLoot",
+    "InternalName": "LazyLoot",
+    "AssemblyVersion": "5.3.2.1",
+    "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
+    "Tags": [
+      "plugin",
+      "loot",
+      "utility",
+      "other"
+    ],
+    "ApplicableVersion": "any",
+    "Punchline": "Dungeon Loot but Lazy.",
+    "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
+    "DalamudApiLevel": 12,
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Lazyloot/LazyLoot-5.3.2.1.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Lazyloot/LazyLoot-5.3.2.1.zip",
+    "IconUrl": "https://love.puni.sh/resources/lazyloot.png"
+  },
+  {
+    "Author": "Haplo064",
+    "Name": "Pixel Perfect",
+    "InternalName": "PixelPerfect",
+    "AssemblyVersion": "3.3.1.0",
+    "RepoUrl": "https://github.com/Haplo064/PixelPerfect",
+    "Tags": [
+      "Hitbox",
+      "Overlay",
+      "Indicator"
+    ],
+    "ApplicableVersion": "any",
+    "Punchline": "Reveals your hitbox, with customisable features. Endorsed by world first raiders!",
+    "Description": "Showing exactly where to stand since 2020. Endorsed by raiders!",
+    "DalamudApiLevel": 12,
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/PixelPerfect/PixelPerfect-3.3.1.0.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/PixelPerfect/PixelPerfect-3.3.1.0.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Haplo064/PixelPerfect/master/images/icon.png"
+  },
+  {
+    "Author": "Liza Carvelli",
+    "Name": "Questionable",
+    "InternalName": "Questionable",
+    "AssemblyVersion": "5.23",
+    "RepoUrl": "https://git.carvel.li/liza/Questionable",
+    "Tags": [
+      "quests",
+      "msq"
+    ],
+    "ApplicableVersion": "any",
+    "Punchline": "A tiny quest helper plugin.",
+    "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
+    "DalamudApiLevel": 12,
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Questionable/Questionable-5.23.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Questionable/Questionable-5.23.zip",
+    "IconUrl": "https://plugins.carvel.li/icons/Questionable.png"
+  },
+  {
+    "Author": "veyn",
+    "Name": "vnavmesh",
+    "InternalName": "vnavmesh",
+    "AssemblyVersion": "0.4.0.2",
+    "RepoUrl": "https://github.com/awgil/ffxiv_navmesh",
+    "ApplicableVersion": "any",
+    "Punchline": "Move around!",
+    "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
+    "DalamudApiLevel": 12,
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/vnavmesh/vnavmesh-0.4.0.2.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/vnavmesh/vnavmesh-0.4.0.2.zip",
+    "IconUrl": "https://raw.githubusercontent.com/awgil/ffxiv_navmesh/8dab2e675e51a03b1827d94e77616a8144892a72/icon2.png"
   }
 ]
