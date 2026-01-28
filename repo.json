@@ -22,28 +22,28 @@
     "DownloadLinkUpdate": "https://github.com/AtmoOmen/DalamudPlugins/releases/download/DR-1.8.3.4/latest.zip"
   },
   {
-    "Author": "The Combat Reborn Team",
-    "Name": "Bossmod Reborn",
-    "InternalName": "BossModReborn",
-    "AssemblyVersion": "7.2.5.109",
-    "Description": "A bunch of utilities to simplify bosses.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-    "DalamudApiLevel": 12,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "ImageUrls": [
-      "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image1.png",
-      "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image2.png",
-      "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image3.png"
-    ],
-    "Punchline": "Don't fail at raid mechanics anymore",
-    "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.5.109/BossModReborn.zip",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.5.109/BossModReborn.zip",
-    "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png"
+  "Author": "The Combat Reborn Team",
+  "Name": "Bossmod Reborn",
+  "InternalName": "BossModReborn",
+  "AssemblyVersion": "7.2.5.109",
+  "Description": "A bunch of utilities to simplify bosses.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
+  "DalamudApiLevel": 12,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "ImageUrls": [
+    "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image1.png",
+    "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image2.png",
+    "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image3.png"
+  ],
+  "Punchline": "Don't fail at raid mechanics anymore",
+  "AcceptsFeedback": true,
+  "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.5.109/BossModReborn.zip",
+  "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.2.5.109/BossModReborn.zip",
+  "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png"
   },
   {
     "Author": "The Combat Reborn Team, decorwdyun(漢化)",
