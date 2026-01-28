@@ -453,8 +453,8 @@
     "DalamudApiLevel": 12,
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Questionable/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Questionable/latest.zip",
+    "DownloadLinkInstall": "https://github.com/decorwdyun/Questionable/releases/download/5.23.4/Questionable-5.23.4.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/Questionable/releases/download/5.23.4/Questionable-5.23.4.zip",
     "IconUrl": "https://plugins.carvel.li/icons/Questionable.png"
   },
   {
@@ -469,8 +469,8 @@
     "DalamudApiLevel": 12,
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/vnavmesh/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/vnavmesh/latest.zip",
+    "DownloadLinkInstall": "https://github.com/decorwdyun/ffxiv_navmesh/releases/download/v0.4.0.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/ffxiv_navmesh/releases/download/v0.4.0.2/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/awgil/ffxiv_navmesh/8dab2e675e51a03b1827d94e77616a8144892a72/icon2.png"
   }
 ]
