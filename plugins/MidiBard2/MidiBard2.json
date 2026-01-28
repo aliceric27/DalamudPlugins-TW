@@ -1,0 +1,27 @@
+{
+  "Author": "akira0245, Ori, Kalle, Zune",
+  "Name": "MidiBard 2",
+  "InternalName": "MidiBard2",
+  "AssemblyVersion": "3.1.0.0",
+  "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://midibard.org",
+  "Tags": [
+    "music",
+    "utility",
+    "midi",
+    "bard"
+  ],
+  "DalamudApiLevel": 12,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "ImageUrls": [
+    "https://i.imgur.com/1R13XF0.png"
+  ],
+  "IconUrl": "https://i.imgur.com/OSxqew4.png",
+  "Punchline": "Bard performance using midi files or keyboard.\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
+  "Changelog": "V3 update. QoL changes and new features. Please join our Discord for details: discord.gg/ff14bard",
+  "AcceptsFeedback": false
+}

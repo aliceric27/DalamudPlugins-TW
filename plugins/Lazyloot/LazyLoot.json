@@ -1,0 +1,24 @@
+{
+  "Author": "53m1k0l0n/Gidedin (Puni.sh)",
+  "Name": "LazyLoot",
+  "InternalName": "LazyLoot",
+  "AssemblyVersion": "5.3.2.1",
+  "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
+  "Tags": [
+    "plugin",
+    "loot",
+    "utility",
+    "other"
+  ],
+  "DalamudApiLevel": 12,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://love.puni.sh/resources/lazyloot.png",
+  "Punchline": "Dungeon Loot but Lazy.",
+  "Changelog": "- Add Item and Duty specific restrictions; - Update for 7.2 HF 1; - Add an improved Weekly loot restriction (Now it will only roll on items that doesn't have the weekly loot flag!)",
+  "AcceptsFeedback": true
+}

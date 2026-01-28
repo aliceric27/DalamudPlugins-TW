@@ -1,0 +1,21 @@
+{
+  "Author": "Liza Carvelli",
+  "Name": "Questionable",
+  "InternalName": "Questionable",
+  "AssemblyVersion": "5.23",
+  "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://git.carvel.li/liza/Questionable",
+  "Tags": [
+    "quests",
+    "msq"
+  ],
+  "DalamudApiLevel": 12,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://plugins.carvel.li/icons/Questionable.png",
+  "Punchline": "A tiny quest helper plugin.",
+  "AcceptsFeedback": true
+}

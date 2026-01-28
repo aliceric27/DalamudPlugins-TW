@@ -1,0 +1,29 @@
+{
+  "Author": "The Combat Reborn Team, decorwdyun(漢化)",
+  "Name": "Rotation Solver Reborn",
+  "InternalName": "RotationSolver",
+  "AssemblyVersion": "7.2.5.127",
+  "Description": "逐幀分析戰鬥情況，並找出下一幀最適合使用的技能。\n\n這意味著幾乎所有戰鬥中可用的資訊都在一幀中，包括隊伍中所有玩家的狀態、任何敵對目標的狀態、技能冷卻時間、角色的MP/HP、角色的位置、敵對目標的施法狀態、連擊、戰鬥時長、玩家等級等。\n\n然後，它會在快捷欄上高亮顯示最佳行動，或説明你點擊它。\n\n它是為“日常戰鬥”設計的，不適用於零式或者絕境戰。請謹慎使用\"\n\n添加了庫但是搜不到請先下載安裝同庫的 Unban 外掛程式 (FuckDalamudCN)",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
+  "Tags": [
+    "combat",
+    "rotation",
+    "自動",
+    "自動迴圈",
+    "技能",
+    "rsr",
+    "RSR"
+  ],
+  "CategoryTags": [
+    "jobs"
+  ],
+  "DalamudApiLevel": 12,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RotationSolverReborn/main/Images/Logo.png",
+  "Punchline": "RSR 自動輸出/迴圈（粗製濫造漢化版），逐幀分析戰鬥情況，並找出下一幀最適合使用的技能。",
+  "AcceptsFeedback": true
+}

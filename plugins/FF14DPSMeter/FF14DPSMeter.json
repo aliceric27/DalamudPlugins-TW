@@ -1,0 +1,15 @@
+{
+  "Author": "AZ",
+  "Name": "FF14 傷害統計",
+  "InternalName": "FF14DPSMeter",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "即時追蹤副本中的傷害統計，顯示隊伍的DPS、總傷害和傷害占比。",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 12,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "統計DPS",
+  "AcceptsFeedback": true
+}

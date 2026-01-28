@@ -1,0 +1,16 @@
+{
+  "Author": "veyn",
+  "Name": "vnavmesh",
+  "InternalName": "vnavmesh",
+  "AssemblyVersion": "0.4.0.2",
+  "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 12,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/awgil/ffxiv_navmesh/8dab2e675e51a03b1827d94e77616a8144892a72/icon2.png",
+  "Punchline": "Move around!",
+  "AcceptsFeedback": true
+}
