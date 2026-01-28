@@ -25,6 +25,7 @@ https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/main/repo.json
 | 插件 | 版本 | 說明 |
 |------|------|------|
 | [**Daily Routines**](https://github.com/AtmoOmen/DalamudPlugins) | 1.8.3.4 | 必備魔法DR |
+| [**Bossmod**](https://github.com/awgil/ffxiv_bossmod) | 0.1.4.0 | Bossmod 經典版 |
 | [**Bossmod Reborn**](https://github.com/FFXIV-CombatReborn/BossmodReborn) | 7.2.5.109 | 顯示技能傷害範圍&其他 |
 | [**Rotation Solver Reborn**](https://github.com/FFXIV-CombatReborn/RotationSolverReborn) | 7.2.5.122 | 一鍵技能循環 |
 | [**Splatoon**](https://github.com/PunishXIV/Splatoon) | 3.8.1.5 | 場景繪製點線面 |
