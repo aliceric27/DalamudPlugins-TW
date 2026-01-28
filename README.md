@@ -50,6 +50,7 @@ https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/main/repo.json
 | [**LazyLoot**](https://github.com/PunishXIV/LazyLoot) | 5.3.2.1 | 自動擲骰 / 撿取相關 |
 | [**Questionable**](https://git.carvel.li/liza/Questionable) | 5.23 | 任務助手（需搭配 vnavmesh/TextAdvance/Lifestream） |
 | **FF14 傷害統計** | 1.0.0.0 | 即時 DPS 統計 |
+| [**YesAlready**](https://github.com/PunishXIV/YesAlready/) | API12 | Yes |
 
 ## 為什麼需要這個倉庫？
 

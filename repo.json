@@ -558,5 +558,28 @@
     "DownloadLinkInstall": "https://github.com/decorwdyun/ffxiv_navmesh/releases/download/v0.4.0.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/decorwdyun/ffxiv_navmesh/releases/download/v0.4.0.2/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/awgil/ffxiv_navmesh/8dab2e675e51a03b1827d94e77616a8144892a72/icon2.png"
-  }
+  },
+  {
+  "Author": "daemitus, croizat",
+  "Name": "YesAlready",
+  "InternalName": "YesAlready",
+  "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/PunishXIV/YesAlready/",
+  "Tags": [
+    "punish",
+    "plugin"
+  ],
+  "DalamudApiLevel": 12,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://github.com/daemitus/YesAlready/raw/master/res/icon.png",
+  "Punchline": "Clicks Yes in various dialogs you've specified.",
+  "AcceptsFeedback": true,
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/yesalready/YesAlready.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/yesalready/YesAlready.zip"
+
+}
 ]
