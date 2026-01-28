@@ -33,6 +33,7 @@ plugins/<PluginFolder>/<InternalName>-<AssemblyVersion>.zip
 
 | 插件 | 版本 | 說明 |
 |------|------|------|
+| [**Daily Routines**](https://github.com/AtmoOmen/DalamudPlugins) | 1.8.3.4 | 必備魔法DR |
 | [**Bossmod Reborn**](https://github.com/FFXIV-CombatReborn/BossmodReborn) | 7.2.5.109 | 顯示技能傷害範圍&其他 |
 | [**Rotation Solver Reborn**](https://github.com/FFXIV-CombatReborn/RotationSolverReborn) | 7.2.5.122 | 一鍵技能循環 |
 | [**Splatoon**](https://github.com/PunishXIV/Splatoon) | 3.8.1.5 | 場景繪製點線面 |
