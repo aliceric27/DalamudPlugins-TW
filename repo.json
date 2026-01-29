@@ -492,7 +492,7 @@
     "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Lazyloot/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Lazyloot/latest.zip",
-    "IconUrl": "https://love.puni.sh/resources/lazyloot.png"
+    "IconUrl": "https://s3.puni.sh/media/plugin/9/icon-zjun2qgmfbe.png"
   },
   {
     "Author": "Haplo064",
@@ -541,7 +541,7 @@
     "LastUpdate": 0,
     "DownloadLinkInstall": "https://github.com/decorwdyun/Questionable/releases/download/5.23.4/Questionable-5.23.4.zip",
     "DownloadLinkUpdate": "https://github.com/decorwdyun/Questionable/releases/download/5.23.4/Questionable-5.23.4.zip",
-    "IconUrl": "https://plugins.carvel.li/icons/Questionable.png"
+    "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/TextAdvance/refs/heads/master/TextAdvance/images/icon.png"
   },
   {
     "Author": "veyn",
@@ -576,11 +576,10 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "IconUrl": "https://github.com/daemitus/YesAlready/raw/master/res/icon.png",
+  "IconUrl": "https://raw.githubusercontent.com/PunishXIV/YesAlready/refs/heads/master/Assets/yesalready_icon.png",
   "Punchline": "Clicks Yes in various dialogs you've specified.",
   "AcceptsFeedback": true,
   "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/yesalready/YesAlready.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/yesalready/YesAlready.zip"
-
 }
 ]
