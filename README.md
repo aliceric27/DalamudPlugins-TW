@@ -52,7 +52,7 @@ https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json
 | [**Questionable**](https://git.carvel.li/liza/Questionable) | 5.23 | 任務助手（需搭配 vnavmesh/TextAdvance/Lifestream） |
 | **FF14 傷害統計** | 1.0.0.0 | 即時 DPS 統計 |
 | [**YesAlready**](https://github.com/PunishXIV/YesAlready/) | API12 | Yes |
-| [**pricesight**](https://github.com/Kouzukii/ffxiv-priceinsight) | 2.11.2.0 | Yes |
+| [**pricesight**](https://github.com/Kouzukii/ffxiv-priceinsight) | 2.11.2.2 | 快速顯示物品價格 |
 
 ## 為什麼需要這個倉庫？
 
