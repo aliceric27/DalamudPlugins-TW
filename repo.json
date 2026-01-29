@@ -363,7 +363,7 @@
     "LastUpdate": 0,
     "DownloadLinkInstall": "https://github.com/NightmareXIV/TextAdvance/releases/download/3.2.4.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/NightmareXIV/TextAdvance/releases/download/3.2.4.5/latest.zip",
-    "IconUrl": ""
+    "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/TextAdvance/refs/heads/master/TextAdvance/images/icon.png"
   },
   {
     "Author": "AA.NightmareXIV",
@@ -541,7 +541,7 @@
     "LastUpdate": 0,
     "DownloadLinkInstall": "https://github.com/decorwdyun/Questionable/releases/download/5.23.4/Questionable-5.23.4.zip",
     "DownloadLinkUpdate": "https://github.com/decorwdyun/Questionable/releases/download/5.23.4/Questionable-5.23.4.zip",
-    "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/TextAdvance/refs/heads/master/TextAdvance/images/icon.png"
+    "IconUrl": "https://qstxiv.github.io/icons/Questionable.png"
   },
   {
     "Author": "veyn",
