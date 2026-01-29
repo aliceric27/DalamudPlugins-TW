@@ -352,6 +352,7 @@
     "Author": "AA.NightmareXIV",
     "Name": "Lifestream",
     "InternalName": "Lifestream",
+    "AssemblyVersion": "2.5.1.13",
     "Description": "- One click to teleport to any world or aethernet destination\n- Click on aetheryte shards inside zone map to teleport to them",
     "ApplicableVersion": "any",
     "Punchline": "A plugin to speed up Aethernet travel and World changing.",
