@@ -11,6 +11,7 @@
 
 ```
 https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/main/repo.json
+https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json
 ```
 
 4. 儲存後即可在插件安裝器中看到這些插件
