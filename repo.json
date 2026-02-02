@@ -127,7 +127,7 @@
     "Punchline": "When working for MGP is too much effort.",
     "Description": "Automates certain Gold Saucer mini-games.",
     "InternalName": "Saucy",
-    "IconUrl": "https://love.puni.sh/resources/saucy.png",
+    "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png",
     "RepoUrl": "https://github.com/PunishXIV/Saucy",
     "DalamudApiLevel": 12,
     "Tags": [
@@ -511,7 +511,7 @@
     "Author": "Liza Carvelli",
     "Name": "Questionable",
     "InternalName": "Questionable",
-    "AssemblyVersion": "5.23",
+    "AssemblyVersion": "5.23.5",
     "RepoUrl": "https://git.carvel.li/liza/Questionable",
     "Tags": [
       "quests",
@@ -523,8 +523,8 @@
     "DalamudApiLevel": 12,
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://github.com/decorwdyun/Questionable/releases/download/5.23.4/Questionable-5.23.4.zip",
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/Questionable/releases/download/5.23.4/Questionable-5.23.4.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Questionable/Questionable-5.23.5.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Questionable/Questionable-5.23.5.zip",
     "IconUrl": "https://qstxiv.github.io/icons/Questionable.png"
   },
   {
