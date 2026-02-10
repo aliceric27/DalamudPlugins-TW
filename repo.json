@@ -511,7 +511,7 @@
     "Author": "Liza Carvelli",
     "Name": "Questionable",
     "InternalName": "Questionable",
-    "AssemblyVersion": "5.23.5",
+    "AssemblyVersion": "5.23.6",
     "RepoUrl": "https://git.carvel.li/liza/Questionable",
     "Tags": [
       "quests",
@@ -523,8 +523,8 @@
     "DalamudApiLevel": 12,
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Questionable/Questionable-5.23.5.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Questionable/Questionable-5.23.5.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Questionable/Questionable-5.23.6.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aliceric27/DalamudPlugins-TW/refs/heads/main/plugins/Questionable/Questionable-5.23.6.zip",
     "IconUrl": "https://qstxiv.github.io/icons/Questionable.png"
   },
   {
