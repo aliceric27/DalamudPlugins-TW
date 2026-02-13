@@ -1,8 +1,8 @@
 {
-  "Author": "AA. The Combat Reborn Team",
+  "Author": "The Combat Reborn Team",
   "Name": "GatherBuddy Reborn",
   "InternalName": "GatherBuddyReborn",
-  "AssemblyVersion": "7.2.5.1",
+  "AssemblyVersion": "7.2.5.2",
   "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations\nvia item name and a UI to keep track of special uptime and weather conditions.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
